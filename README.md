@@ -39,7 +39,7 @@
 
 6. Update your `transition` ruleset so that:
     - the same transition applies to a change in any property
-    - with one set of curly brances, you're targeting the `svg` element, as well as any of its descendants.
+    - with one set of curly braces, you're targeting the `svg` element, as well as any of its descendants.
     - Test that this works by clicking and holding the check mark. The scale and color change should both transition smoothly.
     
 ## Part 3: More animation with keyframes
